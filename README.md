@@ -1,5 +1,4 @@
-This repository contains my solutions to various LeetCode problems implemented in Java. Each solution is organized by problem number, and the code includes comments for clarity.
-
+This repository contains my solutions to various LeetCode problems and other DSA poroblems implemented in Java.
 ## Motivation
 
 I created this repository as a personal learning project and to share my solutions with the coding community.
